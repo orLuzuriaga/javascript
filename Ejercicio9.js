@@ -44,13 +44,7 @@ function getIndexToIns(arr, num) {
   
   }
 
-  const iduales = (valor) => valor === valor2 
-  const arr = ['perro','Perro']
-  const [uno, dos] = [...arr]
-  uno.toLowerCase()
-  dos.toLowerCase()
-  console.log((uno.equals(dos)));
-  console.log(uno.includes(dos));
+ 
 
 
 
