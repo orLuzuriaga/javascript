@@ -18,5 +18,5 @@ function menores(arr, n){
     return result 
 }
   
- console.log(frankenSplice([1, 2, 3], [4, 5, 6], 1));
+ frankenSplice([1, 2, 3], [4, 5, 6], 1);
   
